@@ -1,0 +1,12 @@
+{
+    "name": "TCS_Icons",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+    "title": "TCS Icons",
+    "author": "EvilPLa",
+	"homepage": "",
+    "dependencies": [
+      "base >= 2.0.0"
+    ],
+    "description": "Icons from the legandary [Train Control Signals]|https://mods.factorio.com/mod/Train_Control_Signals mod"
+}
